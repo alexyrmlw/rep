@@ -7,6 +7,7 @@
         $ip_server = $_SERVER['SERVER_ADDR'];
   
     echo "<br>Server IP Address is: $ip_server" 
+        echo "IT Step is great!"
   ?>
               <p>
   
